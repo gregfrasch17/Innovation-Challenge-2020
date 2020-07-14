@@ -1,0 +1,43 @@
+id;user_id;user_name;date;question_id;question;reply
+1;I857283;Greg;2020-07-09;1;How Are You;Good
+2;i000003;Tony Stark;2020-06-22;2;Achievements;Received new project last week
+3;i000003;Tony Stark;2020-06-22;3;Blockers;Waiting to hear from teammates for input
+4;i000003;Tony Stark;2020-06-22;4;PrivateNotes;Have my daughter's dance recital on Wednesday-heading out early
+5;i000003;Tony Stark;2020-06-24;5;Feeling;5
+6;i000003;Tony Stark;2020-06-24;6;FeelingFreeText;Hoping for more project work soon
+7;i000003;Tony Stark;2020-06-24;7;Workload;3
+8;i000006;Bruce Banner;2020-06-22;1;NextGoals;Meet with client X for customer demo on Asset Manager
+9;i000006;Bruce Banner;2020-06-22;2;Achievements;Received billable consulting work form sales team
+10;i000006;Bruce Banner;2020-06-22;3;Blockers;Waiting to hear back from Tony regarding our project updates
+11;i000006;Bruce Banner;2020-06-22;4;PrivateNotes;Doctor's meeting on Tuesday during lunch-may be a little late returning
+12;i000006;Bruce Banner;2020-06-24;5;Feeling;5
+13;i000006;Bruce Banner;2020-06-24;6;FeelingFreeText;Trying to be as productive as possible
+14;i000006;Bruce Banner;2020-06-24;7;Workload;3
+15;i000002;Thor;2020-06-22;1;NextGoals;Complete sales order to client Y
+16;i000002;Thor;2020-06-22;2;Achievements;Had 4 sales calls last week
+17;i000002;Thor;2020-06-22;3;Blockers;About to launch new applications-I will need to train quickly
+18;i000002;Thor;2020-06-22;4;PrivateNotes;N/A
+19;i000002;Thor;2020-06-24;5;Feeling;4
+20;i000002;Thor;2020-06-24;6;FeelingFreeText;Worried about losing clients due to Covid  trying to stay positive
+21;i000002;Thor;2020-06-24;7;Workload;2
+22;i000004;Natalia Romanova;2020-06-22;1;NextGoals;finalize deck for success connect
+23;i000004;Natalia Romanova;2020-06-22;2;Achievements;reached last week's design deadlines
+24;i000004;Natalia Romanova;2020-06-22;3;Blockers;collaborating with team as we finalize deisgns
+25;i000004;Natalia Romanova;2020-06-22;4;PrivateNotes;N/A
+26;i000004;Natalia Romanova;2020-06-24;5;Feeling;6
+27;i000004;Natalia Romanova;2020-06-24;6;FeelingFreeText;Excited about the new launch
+28;i000004;Natalia Romanova;2020-06-24;7;Workload;5
+29;i000005;Steve Rogers;2020-06-22;1;NextGoals;Complete new hire training  choose future employees
+30;i000005;Steve Rogers;2020-06-22;2;Achievements;interviewed potential canidates for team
+31;i000005;Steve Rogers;2020-06-22;3;Blockers;decision/confirmation from the team on their picks
+32;i000005;Steve Rogers;2020-06-22;4;PrivateNotes;Need input from Natalia ASAP!
+33;i000005;Steve Rogers;2020-06-24;5;Feeling;5
+34;i000005;Steve Rogers;2020-06-24;6;FeelingFreeText;Happy to bring new people aboard
+35;i000005;Steve Rogers;2020-06-24;7;Workload;4
+36;i000007;Clint Barton;2020-06-22;1;NextGoals;Code for new design work for Max attention team  catch up on new design work  train new employees
+37;i000007;Clint Barton;2020-06-22;2;Achievements;Received project work form max attention team
+38;i000007;Clint Barton;2020-06-22;3;Blockers;Not enough time in the day!
+39;i000007;Clint Barton;2020-06-22;4;PrivateNotes;Please bring in new person soon!
+40;i000007;Clint Barton;2020-06-24;5;Feeling;1
+41;i000007;Clint Barton;2020-06-24;6;FeelingFreeText;Overwhelmed with the workload- I have worked weekends for the last month to catch up
+42;i000007;Clint Barton;2020-06-24;7;Workload;7

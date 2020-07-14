@@ -1,0 +1,17 @@
+### Get Responses
+GET http://localhost:4004/tech/Responses
+
+### Add Entry
+POST http://localhost:4004/tech/Responses
+Content-Type: application/json;IEEE754Compatible=true
+My-Header: abracadabra
+
+{
+    "id": ,
+    "user_id": ,
+    "user_name": "",
+    "date": ,
+    "question_id": ,
+    "question": "",
+    "reply": "",
+}
