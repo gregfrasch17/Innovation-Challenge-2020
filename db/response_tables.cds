@@ -1,13 +1,11 @@
 namespace salus;
 
-entity Responses {
-    key id: Integer;
-    user_id: String(10);
-    user_name: String(100);
-    date: Date;
-    question_id: Integer;
-    question: String(1000);
-    reply: String(1000);
+entity RESPONSE {
+    key RESPONSE_ID: String;
+    USER_ID: String;
+    RESPONSE_DATE: Date;
+    QUESTION_ID: String;
+    RESPONSE: String;
 }
 
 entity QUESTION {
@@ -18,6 +16,15 @@ entity QUESTION {
     RESPONSE_TYPE: String(100);
     SCHEDULE: String(100);
     MANAGER_USER_ID: String(12);
+    ACTIVE_FLAG: Integer;
+    CREATE_TIME: Date;
+}
+
+entity USER {
+    key USER_ID: String;
+    USER_NAME: String;
+    MANAGER_USER_ID: String;
+    EMAIL: String;
     ACTIVE_FLAG: Integer;
     CREATE_TIME: Date;
 }
